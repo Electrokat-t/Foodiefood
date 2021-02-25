@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -32,10 +32,7 @@
           </li>
         </ul>
           </nav>
-    </div>
-  </div>
-  </header>
+   
   <!-- Project -->
   <script src="main.js"></script>
-</body>
-</html>
+
