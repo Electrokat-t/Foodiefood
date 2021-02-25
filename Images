@@ -8,7 +8,7 @@ git push
 
 [master f10ed95] feat: Create directory structure
  2 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 image/app.py
- create mode 100644 folder/Start_Here.md
+ create mode 100644 images/app.py
+ create mode 100644 Folder/Start_Here.md
 ...
 
