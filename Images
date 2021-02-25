@@ -1,4 +1,4 @@
-#images
+
 mkdir images folder
 touch images/.gitkeep
 touch folder/.gitkeep
@@ -6,7 +6,7 @@ git add *
 git commit -m "feat: Create directory structure"
 git push
 
-[master f10ed95] feat: Create directory structure
+[senior f10ed95] feat: Create directory structure
  2 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 images/app.py
  create mode 100644 folder/Start_Here.md
